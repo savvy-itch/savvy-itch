@@ -1,16 +1,23 @@
-### Hi there 👋
+<h3 align="center">Hello, I'm Mykhailo</h3>
 
-<!--
-**spr0neInBlazer/spr0neInBlazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Front-End Web Developer</h2> 
 
-Here are some ideas to get you started:
+I've 1 year of non-commercial experience of working on my own projects. Constantly learning. Feel free to contact me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+- improving my React skills
+
+### 🌱 I’m currently learning (and plan to learn next):
+- Redux;
+- Axios;
+- Sass;
+
+### My Stack
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap)](https://skillicons.dev)
+### Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sprone13)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/михайло-савич-a31366248/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/spronetunes)
+### Stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=spr0neInBlazer)](https://github.com/spr0neInBlazer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spr0neInBlazer&layout=compact)](https://github.com/spr0neInBlazer)
