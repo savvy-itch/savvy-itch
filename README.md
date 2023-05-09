@@ -20,4 +20,5 @@ I've 1 year of non-commercial experience of working on my own projects. Constant
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/spronetunes)
 ### Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=spr0neInBlazer)](https://github.com/spr0neInBlazer)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spr0neInBlazer&layout=compact)](https://github.com/spr0neInBlazer)
