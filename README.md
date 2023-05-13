@@ -4,6 +4,10 @@
 
 I've 1 year of non-commercial experience of working on my own projects. Constantly learning. Feel free to contact me.
 
+### My current goals:
+- Build a React app w/ Redux;
+- Build an app w/ Axios
+
 ### 🔭 I’m currently working on:
 - improving my React skills
 
@@ -11,6 +15,7 @@ I've 1 year of non-commercial experience of working on my own projects. Constant
 - Redux;
 - Axios;
 - Sass;
+- Tailwind;
 
 ### My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap)](https://skillicons.dev)
