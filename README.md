@@ -2,7 +2,7 @@
 
 <h2 align="center">Front-End Web Developer</h2> 
 
-I've 1 year of non-commercial experience of working on my own projects. Constantly learning. Feel free to contact me.
+I've 1 year of non-commercial experience of working on my projects. Constantly learning. Feel free to contact me.
 
 ### My current goals:
 - Build a React app w/ Redux;
