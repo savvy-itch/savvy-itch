@@ -5,20 +5,19 @@
 I've 1 year of non-commercial experience of working on my projects. Constantly learning. Feel free to contact me.
 
 ### My current goals:
-- Build a React app w/ Redux;
-- Build an app w/ Axios
+- Build an app w/ TypeScript;
+- Build an app w/ Sass, LESS/SCSS
 
 ### 🔭 I’m currently working on:
 - improving my React skills
 
 ### 🌱 I’m currently learning (and plan to learn next):
-- Redux;
-- Axios;
+- TypeScript;
 - Sass;
-- Tailwind;
+- LESS/SCSS;
 
 ### My Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,bootstrap)](https://skillicons.dev)
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sprone13)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/михайло-савич-a31366248/)
