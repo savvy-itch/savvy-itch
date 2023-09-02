@@ -18,7 +18,7 @@ I've 1 year of non-commercial experience of working on my projects. Constantly l
 - Next.js;
 
 ### My Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,styledcomponents,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,sass,styledcomponents,bootstrap)](https://skillicons.dev)
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sprone13)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/михайло-савич-a31366248/)
