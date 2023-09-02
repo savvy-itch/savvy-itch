@@ -5,16 +5,17 @@
 I've 1 year of non-commercial experience of working on my projects. Constantly learning. Feel free to contact me.
 
 ### My current goals:
-- Build an app w/ TypeScript;
-- Build an app w/ Sass, LESS/SCSS
+- Build apps w/ TypeScript;
+- Just build more interesting stuff, gain experience;
 
 ### 🔭 I’m currently working on:
-- improving my React skills
+- improving my React skills;
+- improving my problem-solving skills with pure JS;
 
 ### 🌱 I’m currently learning (and plan to learn next):
 - TypeScript;
-- Sass;
-- LESS/SCSS;
+- Sass/SCSS, LESS;
+- Next.js;
 
 ### My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,styledcomponents,bootstrap)](https://skillicons.dev)
