@@ -1,8 +1,8 @@
-<h3 align="center">Hello, I'm Mykhailo</h3>
+<h3 align="center">Hello, I'm Misha</h3>
 
 <h2 align="center">Front-end Developer</h2> 
 
-I've 1 year of non-commercial experience of working on my projects. Constantly learning. Feel free to contact me.
+I build stuff. Constantly learning.
 
 ### My current goals:
 - Build apps w/ TypeScript;
@@ -21,6 +21,4 @@ I've 1 year of non-commercial experience of working on my projects. Constantly l
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,sass,styledcomponents,bootstrap)](https://skillicons.dev)
 
 ### Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=savvy-itch)](https://github.com/savvy-itch)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvy-itch&layout=compact)](https://github.com/savvy-itch)
