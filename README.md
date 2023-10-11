@@ -20,5 +20,4 @@ I build stuff. Constantly learning.
 ### My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,tailwind,sass,styledcomponents,bootstrap)](https://skillicons.dev)
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvy-itch&layout=compact)](https://github.com/savvy-itch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvy-itch&layout=compact&theme=dark)](https://github.com/savvy-itch)
