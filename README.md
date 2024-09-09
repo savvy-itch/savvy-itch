@@ -1,5 +1,3 @@
-<h3 align="center">Hello, I'm Michael</h3>
-
 <h2 align="center">Front-end Developer</h2> 
 
 I build stuff. Constantly learning.
