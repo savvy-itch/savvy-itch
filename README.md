@@ -1,11 +1,11 @@
-<h2 align="center">Front-end Developer</h2> 
+<h2 align="center">Full Stack Developer</h2> 
 
 I build stuff. Constantly learning.
 
 ### My Stack
 - **Languages**: JavaScript/TypeScript
 - **Front-end**:  React, Next.js
-- **Styling**:  CSS/SCSS, Tailwind, Bootstrap
+- **Styling**:  CSS/SCSS, Tailwind
 - **Back-end**:  Node.js/Express
 - **Database**:  MongoDB;
 
