@@ -6,7 +6,7 @@ I build stuff. Constantly learning.
 - **Languages**: JavaScript/TypeScript
 - **Front-end**:  React, Next.js
 - **Styling**:  CSS/SCSS, Tailwind
-- **Back-end**:  Node.js/Express
-- **Database**:  MongoDB;
+- **Back-end**:  Node.js/Express, Django
+- **Database**:  MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvy-itch&layout=compact&theme=dark)](https://github.com/savvy-itch)
