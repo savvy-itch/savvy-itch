@@ -9,4 +9,4 @@ I build stuff. Constantly learning.
 - **Back-end**:  Node.js/Express, Django
 - **Database**:  MongoDB
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvy-itch&layout=compact&theme=dark)](https://github.com/savvy-itch)
+[![Top Langs](https://github-readme-stats-ten-navy-28.vercel.app/api/top-langs/?username=savvy-itch&layout=compact&theme=dark)](https://github.com/savvy-itch)
